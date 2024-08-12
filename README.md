@@ -29,7 +29,7 @@ This project is a simple React application that displays a gallery of images wit
 1. Run the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 2. Open your browser and go to `http://localhost:3000` to view the application.
